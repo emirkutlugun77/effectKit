@@ -43,8 +43,27 @@ footer {
     background-image: url("images/tom4.png");
 }
 
+.e {
+    background-image: url("images/akasya_duragi.png");
+    background-size: 130px 130px;
+}
+
+.r {
+    background-image: url("images/wololo.png");
+    background-size: 130px 130px;
+}
+
+h3 {
+    margin-left: 15%;
+    text-align: left;
+    font-size: 2rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+
 .set {
-    margin: 10% auto;
+    margin: 1% auto;
 }
 
 .game-over {
